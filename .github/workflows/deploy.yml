@@ -1,0 +1,34 @@
+name: Deploy README to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🐳 Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: 🛠 Build Docker and export HTML
+        run: |
+          docker build -t readme-exporter .
+          docker run --rm \
+            -e FLASK_RUN_MODE=export-only \
+            -v ${{ github.workspace }}/dist:/app/dist \
+            readme-exporter
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
