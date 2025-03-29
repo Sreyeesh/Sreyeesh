@@ -1,0 +1,39 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Ignore Docker files
+.docker/
+
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files created by text editors
+*~
+*.swp
+
+# Ignore GitHub Actions, CI/CD, and build outputs
+.github/
+.gitlab-ci.yml
+node_modules/
+dist/
+build/
+
+# Ignore .empty files (if not needed in version control)
+**/.empty
