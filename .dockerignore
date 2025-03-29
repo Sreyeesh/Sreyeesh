@@ -1,0 +1,13 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ensure README.md is not ignored
+# (Don't include README.md here)
