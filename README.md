@@ -48,28 +48,22 @@ I’ve contributed to secure, scalable systems at **Smartmatic-Cybernetica**, bu
 ## 🧪 Projects
 
 ### 🔹 [dotfiles](https://github.com/Sreyeesh/dotfiles)  
-Zsh-powered, bootstrap-ready personal dotfiles for fast environment setup and config versioning.
+My dotfiles manager setup with zsh, aliases, bootstrap script, and cross-machine sync.
 
 ### 🔹 [devscaffold](https://github.com/Sreyeesh/devscaffold)  
-Python CLI to scaffold dev projects using naming conventions, structure templates, and Typer.
+Python CLI tool to scaffold projects consistently using modern structure and config-driven templates.
 
 ### 🔹 [disk-monitoring](https://github.com/Sreyeesh/disk-monitoring)  
-WSL2-based disk and memory monitoring using Prometheus, Node Exporter, and Grafana.
-
-### 🔹 [sreyeesh-devops-terminal](https://github.com/Sreyeesh/Sreyeesh)  
-My DevOps portfolio site — themed like a terminal, built with Flask and GitHub Actions.
-
-### 🔹 [pokus-pipeline-tools](https://github.com/Sreyeesh/pokus-pipeline-tools)  
-Python-based animation pipeline tooling for a short film project, designed for single-artist automation.
+Prometheus + Grafana stack for monitoring disk and memory usage from WSL2.
 
 ### 🔹 [DotSync](https://github.com/Sreyeesh/dotsync) *(WIP)*  
-Cross-system dotfiles manager built in Python with Typer. Designed to sync, version, and restore.
+A CLI dotfiles manager written in Python with Typer, built for portability and versioning.
 
 ### 🔹 [Sortify](https://github.com/Sreyeesh/Sortify)  
-Minimalist Go CLI to auto-sort messy folders into labeled subfolders by file type.
+A Go CLI tool that sorts messy directories into clean, labeled folders based on file types.
 
 ### 🔹 [Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)  
-Terminal-based movie logger using SQLite — includes rating, genre tags, and favorites.
+Track and tag watched movies via CLI using SQLite — made as a fun scripting project.
 
 ---
 
