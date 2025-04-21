@@ -12,7 +12,7 @@
 
 I’m a passionate **DevOps Engineer and Pipeline Technical Director** with over **6 years of experience** designing and automating cloud infrastructures, monitoring systems, and CI/CD pipelines.
 
-I’ve contributed to secure, scalable systems at **Smartmatic-Cybernetica**, built production workflows at **SG Production OÜ**, and developed render automation at **Blizzard, DNEG, and Boulder Media**. My stack includes AWS, Terraform, Prometheus, and GitHub Actions — and I love making tools that empower creative and engineering teams alike.
+I’ve contributed to secure, scalable systems at **Smartmatic-Cybernetica**, built production workflows at **SG Production OÜ**, and developed render automation at **Blizzard**, **DNEG**, and **Boulder Media**. My stack includes **AWS**, **Terraform**, **Prometheus**, and **GitHub Actions** — and I love making tools that empower creative and engineering teams alike.
 
 ---
 
@@ -47,14 +47,26 @@ I’ve contributed to secure, scalable systems at **Smartmatic-Cybernetica**, bu
 
 ## 🧪 Projects
 
-### 🔹 [disk-monitoring-stack](https://github.com/Sreyeesh/disk-monitoring-stack)  
-**Prometheus + Grafana** stack for monitoring WSL2 systems — part of my DevOps homelab.
+### 🔹 [dotfiles](https://github.com/Sreyeesh/dotfiles)  
+My dotfiles manager setup with zsh, aliases, bootstrap script, and cross-machine sync.
+
+### 🔹 [devscaffold](https://github.com/Sreyeesh/devscaffold)  
+Python CLI tool to scaffold projects consistently using modern structure and config-driven templates.
+
+### 🔹 [disk-monitoring](https://github.com/Sreyeesh/disk-monitoring)  
+Prometheus + Grafana stack for monitoring disk and memory usage from WSL2.
 
 ### 🔹 [sreyeesh-devops-terminal](https://github.com/Sreyeesh/sreyeesh-devops-terminal)  
-Interactive portfolio site built like a Zsh terminal to showcase my tooling, blog, and projects.
+Zsh-themed DevOps portfolio terminal that presents my skills and projects through a CLI UI.
 
 ### 🔹 [DotSync](https://github.com/Sreyeesh/dotsync) *(WIP)*  
-A Typer-based dotfiles manager written in Python — built for cross-system syncing and backups.
+A CLI dotfiles manager written in Python with Typer, built for portability and versioning.
+
+### 🔹 [Sortify](https://github.com/Sreyeesh/Sortify)  
+A Go CLI tool that sorts messy directories into clean, labeled folders based on file types.
+
+### 🔹 [Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)  
+Track and tag watched movies via CLI using SQLite — made as a fun scripting project.
 
 ---
 
