@@ -56,8 +56,6 @@ Python CLI tool to scaffold projects consistently using modern structure and con
 ### 🔹 [disk-monitoring](https://github.com/Sreyeesh/disk-monitoring)  
 Prometheus + Grafana stack for monitoring disk and memory usage from WSL2.
 
-### 🔹 [DotSync](https://github.com/Sreyeesh/dotsync) *(WIP)*  
-A CLI dotfiles manager written in Python with Typer, built for portability and versioning.
 
 ### 🔹 [Sortify](https://github.com/Sreyeesh/Sortify)  
 A Go CLI tool that sorts messy directories into clean, labeled folders based on file types.
