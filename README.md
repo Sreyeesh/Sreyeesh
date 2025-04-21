@@ -48,25 +48,28 @@ I’ve contributed to secure, scalable systems at **Smartmatic-Cybernetica**, bu
 ## 🧪 Projects
 
 ### 🔹 [dotfiles](https://github.com/Sreyeesh/dotfiles)  
-My dotfiles manager setup with zsh, aliases, bootstrap script, and cross-machine sync.
+Zsh-powered, bootstrap-ready personal dotfiles for fast environment setup and config versioning.
 
 ### 🔹 [devscaffold](https://github.com/Sreyeesh/devscaffold)  
-Python CLI tool to scaffold projects consistently using modern structure and config-driven templates.
+Python CLI to scaffold dev projects using naming conventions, structure templates, and Typer.
 
 ### 🔹 [disk-monitoring](https://github.com/Sreyeesh/disk-monitoring)  
-Prometheus + Grafana stack for monitoring disk and memory usage from WSL2.
+WSL2-based disk and memory monitoring using Prometheus, Node Exporter, and Grafana.
 
-### 🔹 [sreyeesh-devops-terminal](https://github.com/Sreyeesh/sreyeesh-devops-terminal)  
-Zsh-themed DevOps portfolio terminal that presents my skills and projects through a CLI UI.
+### 🔹 [sreyeesh-devops-terminal](https://github.com/Sreyeesh/Sreyeesh)  
+My DevOps portfolio site — themed like a terminal, built with Flask and GitHub Actions.
+
+### 🔹 [pokus-pipeline-tools](https://github.com/Sreyeesh/pokus-pipeline-tools)  
+Python-based animation pipeline tooling for a short film project, designed for single-artist automation.
 
 ### 🔹 [DotSync](https://github.com/Sreyeesh/dotsync) *(WIP)*  
-A CLI dotfiles manager written in Python with Typer, built for portability and versioning.
+Cross-system dotfiles manager built in Python with Typer. Designed to sync, version, and restore.
 
 ### 🔹 [Sortify](https://github.com/Sreyeesh/Sortify)  
-A Go CLI tool that sorts messy directories into clean, labeled folders based on file types.
+Minimalist Go CLI to auto-sort messy folders into labeled subfolders by file type.
 
 ### 🔹 [Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)  
-Track and tag watched movies via CLI using SQLite — made as a fun scripting project.
+Terminal-based movie logger using SQLite — includes rating, genre tags, and favorites.
 
 ---
 
