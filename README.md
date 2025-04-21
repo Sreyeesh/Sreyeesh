@@ -56,12 +56,12 @@ Python CLI tool to scaffold projects consistently using modern structure and con
 ### 🔹 [disk-monitoring](https://github.com/Sreyeesh/disk-monitoring)  
 Prometheus + Grafana stack for monitoring disk and memory usage from WSL2.
 
-
 ### 🔹 [Sortify](https://github.com/Sreyeesh/Sortify)  
 A Go CLI tool that sorts messy directories into clean, labeled folders based on file types.
 
 ### 🔹 [Movie-Tracker-CLI](https://github.com/Sreyeesh/Movie-Tracker-CLI)  
 Track and tag watched movies via CLI using SQLite — made as a fun scripting project.
+
 
 ---
 
