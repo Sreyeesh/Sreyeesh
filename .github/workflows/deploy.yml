@@ -1,4 +1,4 @@
-name: Deploy README to GitHub Pages
+name: Deploy Resume as Static Site
 
 on:
   push:
@@ -13,19 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: 📥 Checkout repo
         uses: actions/checkout@v3
 
-      - name: 🐳 Set up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: 🛠 Build Docker and export HTML
+      - name: 🐳 Build Docker image and export HTML
         run: |
-          docker build -t readme-exporter .
+          docker build -t resume-exporter .
           docker run --rm \
             -e FLASK_RUN_MODE=export-only \
             -v ${{ github.workspace }}/dist:/app/dist \
-            readme-exporter
+            resume-exporter
 
       - name: 🚀 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
