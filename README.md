@@ -8,102 +8,50 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-I'm a **DevOps Engineer** and **Pipeline Technical Director** with 10+ years of experience spanning animation, infrastructure, automation, and internal tooling.
+I'm a DevOps Engineer and Pipeline Technical Director with over 6 years of experience building scalable infrastructure, automating creative and technical workflows, and bridging the gap between engineering and production.
 
-My journey started in the animation and VFX industry, where I supported artists and production teams as a **Render Wrangler** and **Pipeline TD** at studios like **Disney**, **DNEG**, and **Blizzard**. I built tools, automated exports, and managed render infrastructure across high-pressure production environments — long before I ever used the term “DevOps.”
+My career began in the animation and VFX industry, where I developed tools and automated pipelines at studios like **Blizzard**, **DNEG**, and **Disney**. Working as a Render Wrangler and Pipeline TD, I gained hands-on experience with systems thinking, scripting, and infrastructure support — long before my role formally transitioned into DevOps.
 
-Over time, I transitioned into infrastructure full-time, applying the same creative problem-solving to **DevOps, cloud platforms, observability, and CI/CD workflows**. At **Smartmatic-Cybernetica**, I deployed secure, cloud-native systems using **Terraform**, **AWS**, **Prometheus**, and **GitHub Actions** — bridging creative mindset with engineering best practices.
+Today, I specialize in:
+- Automating CI/CD pipelines with **GitLab CI**, **GitHub Actions**, and **Docker**
+- Deploying infrastructure and managing environments with **Ansible**, **AWS**, and **Linux**
+- Designing observability stacks with **Prometheus** and **Grafana**
+- Building structured, scalable pipelines that serve both engineering and creative teams
 
----
-
-## 👨‍🔧 What I Do Best
-
-- Design and automate **CI/CD pipelines** that accelerate development and delivery  
-- Build **internal tools** that reduce friction for developers, technical artists, and teams  
-- Manage and monitor **cloud-based infrastructure** (AWS, Docker, Ansible, Grafana, ELK)  
-- Create **structured pipeline architectures** that scale from solo projects to studios  
-- Write **clean Python and Bash scripts** for automation, validation, and reproducibility  
-- Enable **real people** with systems that are well-documented, testable, and easy to use  
-
-Whether it’s a studio team needing a smarter publishing pipeline, or a dev team needing reproducible environments — I build the tools that support both.
+I bring a creative, systems-oriented mindset to every project, and I thrive in environments where well-designed infrastructure empowers teams to move faster, collaborate better, and ship with confidence.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills Snapshot
 
-### ⚙️ DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
-
-### ☁️ Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-![HAProxy](https://img.shields.io/badge/HAProxy-000000?style=flat-square&logo=haproxy)
-
-### 📈 Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
-![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic)
-
-### 🧑‍💻 Scripting & Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+• DevOps | CI/CD | Infrastructure as Code (IaC)  
+• Ansible | GitLab CI | GitHub Actions | Docker  
+• AWS | Linux | System Monitoring | Prometheus | Grafana  
+• Python | Bash | Automation Scripting | Configuration Management  
+• Pipeline Development | Asset Management | Creative Tools Integration  
+• Cross-functional Collaboration | Technical Documentation | Support Engineering
 
 ---
 
-## 🔍 Featured Projects
+## 📁 Featured Projects
 
-### 📦 [Dotfiles](https://github.com/Sreyeesh/dotfiles)  
-Zsh + Powerlevel10k config with SSH automation, Docker reproducibility, and Makefile install.
-
-### ⚙️ [DevScaffold](https://github.com/Sreyeesh/devscaffold)  
-Python CLI generator using Typer, config-based templates, GitHub PR automation.
-
-### 📊 [Disk Monitoring Stack](https://github.com/Sreyeesh/disk-monitoring)  
-Prometheus + Grafana setup to monitor WSL2 disk usage, Dockerized for portability.
-
-### 📁 [Sortify](https://github.com/Sreyeesh/Sortify)  
-Simple Go CLI tool to sort files by type — a fun, focused directory cleanup tool.
-
-### 🎬 [Pokus Pipeline Tools](https://github.com/Sreyeesh/pokus-pipeline-tools)  
-Animation pipeline toolkit using SQLite, config-based folder structures, and export validation.
+🔹 [**devscaffold**](https://github.com/Sreyeesh/devscaffold) – CLI tool to scaffold modern Python/DevOps projects  
+🔹 [**disk-monitoring**](https://github.com/Sreyeesh/disk-monitoring) – Prometheus + Grafana stack for WSL2 monitoring  
+🔹 [**dotfiles**](https://github.com/Sreyeesh/dotfiles) – Terminal automation and reproducible dev environment setup  
+🔹 [**pokus-pipeline-tools**](https://github.com/Sreyeesh/pokus-pipeline-tools) – SQLite-based production workflow tracker  
+🔹 [**Sortify**](https://github.com/Sreyeesh/Sortify) – Go CLI tool to auto-sort files into folders  
+🔹 [**Movie Tracker CLI**](https://github.com/Sreyeesh/Movie-Tracker-CLI) – SQLite CLI app for managing watched movies
 
 ---
 
-## 📚 Learning & Certifications
+## 📫 Let’s Connect
 
-- **KodeKloud DevOps Learning Path** *(In Progress)*  
-  Linux · Docker · Terraform · Kubernetes · Jenkins · Prometheus · CI/CD
-
-- **Planned Certifications**  
-  • AWS Certified Solutions Architect – Associate  
-  • Terraform Associate  
-  • LFCS (Linux Foundation Certified SysAdmin)
+- 📧 Email: [sgarime1@gmail.com](mailto:sgarime1@gmail.com)  
+- 🌐 Portfolio: [sreyeesh.github.io/Sreyeesh](https://sreyeesh.github.io/Sreyeesh)  
+- 🧠 Notion Profile: [View My Notion Portfolio](https://stump-principle-4a6.notion.site/Sreyeesh-Garimella-DevOps-Engineer-Data-Engineer-Pipeline-Technical-Director-1d7c1e24aece808c8f02ecf255287e1c)
 
 ---
 
-## 🧠 Want to See More?
-
-Explore my DevOps notes, CLI tools, and creative pipeline thinking here:  
-[![Notion Portfolio](https://img.shields.io/badge/Visit_Notion_Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://stump-principle-4a6.notion.site/Sreyeesh-Garimella-DevOps-Engineer-Data-Engineer-Pipeline-Technical-Director-1d7c1e24aece808c8f02ecf255287e1c)
-
----
-
-## 🤝 Let’s Connect
-
-📧 **Email**: [sgarime1@gmail.com](mailto:sgarime1@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/sreyeeshgarimella](https://linkedin.com/in/sreyeeshgarimella)  
-🐙 **GitHub**: [github.com/Sreyeesh](https://github.com/Sreyeesh)
-
----
-
-> 💬 *“Build it. Break it. Monitor it. Automate it.”* – My DevOps mantra
+> 💬 *“Build it. Break it. Monitor it. Automate it.”*
