@@ -10,9 +10,16 @@
 
 ## 🚀 About Me
 
-I’m a passionate **DevOps Engineer and Pipeline Technical Director** with over **6 years of experience** designing and automating cloud infrastructures, monitoring systems, and CI/CD pipelines.
+I’m a DevOps Engineer and Pipeline Technical Director with over 6 years of experience designing scalable infrastructure, automating CI/CD workflows, and building monitoring systems that support both technical and creative teams.
 
-I’ve contributed to secure, scalable systems at **Smartmatic-Cybernetica**, built production workflows at **SG Production OÜ**, and developed render automation at **Blizzard**, **DNEG**, and **Boulder Media**. My stack includes **AWS**, **Terraform**, **Prometheus**, and **GitHub Actions** — and I love making tools that empower creative and engineering teams alike.
+I began my career in animation and VFX, where I worked closely with render farms, asset pipelines, and large-scale productions at studios like Blizzard, DNEG, and Boulder Media. In these roles, I adopted DevOps tools early — automating complex processes, managing distributed systems, and building robust tools in Python and Bash to support artists and engineers alike.
+
+Most recently, I contributed to secure, cloud-native platforms at Smartmatic-Cybernetica and helped build out production workflows and infrastructure automation at SG Production OÜ.
+
+My current stack includes AWS, Terraform, Prometheus, GitHub Actions, and Docker — and I'm passionate about bridging infrastructure and creative tooling, bringing clarity and stability to fast-moving environments.
+
+I’m open to DevOps, infrastructure, and pipeline engineering roles — where I can continue solving problems at scale, empowering teams through automation and thoughtful tooling.
+
 
 ---
 
@@ -76,6 +83,13 @@ Track and tag watched movies via CLI using SQLite — made as a fun scripting pr
   - LFCS (Linux Foundation Certified SysAdmin)
 
 ---
+
+## 🧠 Extended Portfolio
+
+Want to learn more about my background, DevOps workflows, and notes?  
+👉 **Check out my Notion Portfolio**:  
+[![Notion Portfolio](https://img.shields.io/badge/Visit_Notion_Portfolio-000?style=for-the-badge&logo=notion&logoColor=white)](https://stump-principle-4a6.notion.site/Sreyeesh-Garimella-DevOps-Engineer-Data-Engineer-Pipeline-Technical-Director-1d7c1e24aece808c8f02ecf255287e1c)
+
 
 ## 🤝 Let's Connect
 
