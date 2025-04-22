@@ -10,16 +10,23 @@
 
 ## 🚀 About Me
 
-I’m a DevOps Engineer and Pipeline Technical Director with over 6 years of experience designing scalable infrastructure, automating CI/CD workflows, and building monitoring systems that support both technical and creative teams.
 
-I began my career in animation and VFX, where I worked closely with render farms, asset pipelines, and large-scale productions at studios like Blizzard, DNEG, and Boulder Media. In these roles, I adopted DevOps tools early — automating complex processes, managing distributed systems, and building robust tools in Python and Bash to support artists and engineers alike.
 
-Most recently, I contributed to secure, cloud-native platforms at Smartmatic-Cybernetica and helped build out production workflows and infrastructure automation at SG Production OÜ.
+I'm a DevOps Engineer and Pipeline Technical Director with 6+ years of experience automating workflows, building infrastructure, and developing tools that support both engineering and creative teams.
 
-My current stack includes AWS, Terraform, Prometheus, GitHub Actions, and Docker — and I'm passionate about bridging infrastructure and creative tooling, bringing clarity and stability to fast-moving environments.
+My career began in the animation and VFX industry, where I worked as a Render Wrangler and Pipeline TD on major productions at studios like Blizzard, DNEG, and Disney. In these roles, I relied heavily on DevOps tools to solve production problems — automating asset publishing, managing render infrastructure, and building CI-like validation systems using Python, Git, ShotGrid, and Docker.
 
-I’m open to DevOps, infrastructure, and pipeline engineering roles — where I can continue solving problems at scale, empowering teams through automation and thoughtful tooling.
+Over time, I leaned more into infrastructure, monitoring, and automation — leading to a natural transition into full-time DevOps work. At Smartmatic-Cybernetica, I contributed to secure, cloud-native systems using AWS, Terraform, GitHub Actions, and Prometheus, bringing that same production mindset into infrastructure at scale.
 
+Today, I specialize in:
+
+Building reproducible CI/CD systems
+
+Creating developer tooling for faster feedback
+
+Designing pipeline architectures that scale across teams
+
+I thrive in roles where creativity meets infrastructure, where well-designed systems empower teams to do their best work — whether they’re artists or engineers.
 
 ---
 
